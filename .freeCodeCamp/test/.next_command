@@ -254,3 +254,6 @@ history -a
 help for
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh 10
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

@@ -115,3 +115,9 @@ history -a
 which bash
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./countdowm
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

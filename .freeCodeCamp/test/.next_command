@@ -106,3 +106,9 @@ history -a
 chmod +x countdown.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+which bash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+where bash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

@@ -121,3 +121,9 @@ history -a
 ./countdown.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh a b c
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh arg1 arg2 arg3
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

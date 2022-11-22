@@ -444,3 +444,54 @@ history -a
 echo ${ARR[1]}
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo bingo.sh countdown.sh fortune.sh learn-bash-scripting-by-building-five-programs questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $*
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $@
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $ARR@
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $ARR
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $ARR*
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${ARR}*
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo bingo.sh countdown.sh fortune.sh learn-bash-scripting-by-building-five-programs questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo @
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $*
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $@
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+${ARR[*]}
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+${ARR[$*]}
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+${ARR[2]}
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${ARR[$*]}
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${ARR[*]}
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
